@@ -65,7 +65,7 @@ Please read the manual before using the software.
 
 This software is provided "as is", without warranty of any kind.
 
-Measurement results should be independently verified. The author is not responsible for measurement errors, equipment damage, data loss, or any other damages resulting from use of the software.
+Results should be independently verified. The author is not responsible for measurement errors, equipment damage, data loss, or any other damages resulting from use of the software.
 
 The software should not be used as the sole basis for safety-critical, medical, industrial-control, certification, or high-risk decisions.
 
