@@ -11,8 +11,8 @@ Download the latest version from the **Releases** section of this repository.
 Included files:
 
 ```text
-Z-Viper_Impedance_Spectrum_Analyser_v1.12.exe
-Z-Viper_Impedance_Spectrum_Analyzer_v1.12_User_Manual.pdf
+Z-Viper_Impedance_Spectrum_Analyser_v1.0.exe
+User_Manual_Z-Viper_Impedance_Spectrum_Analyzer_v1.0.pdf
 EULA.txt
 ```
 
@@ -21,7 +21,7 @@ EULA.txt
 1. Download the latest release.
 2. Extract the files if they are provided in a ZIP archive.
 3. Read the instruction manual.
-4. Run `Z-Viper_Impedance_Spectrum_Analyser_v1.12.exe`.
+4. Run `Z-Viper_Impedance_Spectrum_Analyser_v1.0.exe`.
 
 ## License
 
@@ -56,7 +56,7 @@ Without written permission from the author, you may not:
 The instruction manual is included as:
 
 ```text
-Z-Viper_Impedance_Spectrum_Analyzer_v1.12_User_Manual.pdf
+User_Manual_Z-Viper_Impedance_Spectrum_Analyzer_v1.0.pdf
 ```
 
 Please read the manual before using the software.
