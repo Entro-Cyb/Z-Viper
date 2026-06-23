@@ -58,7 +58,11 @@ The Software is provided "as is" and "as available", without warranty of any kin
 
 The Author makes no warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, reliability, compatibility, or non-infringement.
 
-The Author does not guarantee that the Software will be error-free, uninterrupted, secure, compatible with all systems, or suitable for any specific measurement, engineering, laboratory, educational, or commercial purpose.
+For impedance fitting, simulation, research, education, and evaluation only. 
+Results must be independently verified. The Author does not guarantee that the Software will be error-free, uninterrupted, secure, compatible with all systems, or suitable for any specific measurement, engineering, laboratory, educational, or commercial purpose.
+
+Not certified for safety-critical, medical, mains-voltage, high-voltage, or industrial-control applications.
+The user is responsible for safe circuit design, safe test conditions, and safe use of equipment.
 
 8. Measurement Disclaimer
 
