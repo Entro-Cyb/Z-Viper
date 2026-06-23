@@ -1,0 +1,97 @@
+FREEWARE END USER LICENSE AGREEMENT
+
+Product: Z-Viper Impedance Analyzer Software
+Author: F. M.
+Copyright © 2026 F M. All rights reserved.
+
+This End User License Agreement ("Agreement") governs your use of the Z-Viper Impedance Analyzer Software, including any executable files, documentation, manuals, updates, and related materials supplied with it ("Software").
+
+By downloading, installing, copying, or using the Software, you agree to this Agreement. If you do not agree, do not use the Software.
+
+1. License Grant
+
+The Author grants you a limited, personal, non-exclusive, non-transferable, revocable license to download, install, and use the Software free of charge.
+
+This license is granted only for lawful personal, educational, research, or evaluation use.
+
+2. Freeware Status
+
+The Software is provided free of charge.
+
+You may not sell, rent, lease, sublicense, charge for access to, include in a paid product, or commercially distribute the Software without prior written permission from the Author.
+
+3. Restrictions
+
+You may not, without prior written permission from the Author:
+
+a. modify, adapt, translate, alter, or create derivative works based on the Software;
+b. reverse engineer, decompile, disassemble, or attempt to extract the source code of the Software, except where such restriction is not permitted by applicable law;
+c. remove, alter, or obscure any copyright notice, license notice, author notice, or proprietary marking;
+d. redistribute the Software as part of another product, package, website, archive, installer, or commercial service;
+e. sell or resell the Software;
+f. claim ownership or authorship of the Software;
+g. use the Software in a way that violates applicable laws or regulations.
+
+4. Redistribution
+
+You may share the official GitHub repository link or official download link for the Software.
+
+You may not upload, mirror, repackage, host, or redistribute copies of the Software on other websites, repositories, platforms, or storage services without prior written permission from the Author.
+
+5. Ownership
+
+The Software is licensed, not sold.
+
+The Author retains all rights, title, and interest in and to the Software, including all copyrights, intellectual property rights, design rights, documentation rights, and related proprietary rights.
+
+No ownership rights are transferred to you under this Agreement.
+
+6. Documentation
+
+The instruction manual and documentation are provided for use with the Software only.
+
+You may not sell, modify, republish, or redistribute the documentation without prior written permission from the Author.
+
+7. No Warranty
+
+The Software is provided "as is" and "as available", without warranty of any kind.
+
+The Author makes no warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, reliability, compatibility, or non-infringement.
+
+The Author does not guarantee that the Software will be error-free, uninterrupted, secure, compatible with all systems, or suitable for any specific measurement, engineering, laboratory, educational, or commercial purpose.
+
+8. Measurement Disclaimer
+
+The Software may be used in connection with impedance analysis, electronic measurement, or related technical work.
+
+You are responsible for verifying all results, calibration, measurement conditions, hardware compatibility, and safety procedures.
+
+The Software should not be relied upon as the sole basis for safety-critical, medical, industrial-control, life-support, regulatory, certification, or high-risk decisions.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by law, the Author shall not be liable for any direct, indirect, incidental, consequential, special, punitive, or exemplary damages arising from or related to the use or inability to use the Software.
+
+This includes, but is not limited to, loss of data, loss of profits, equipment damage, measurement errors, business interruption, or any other losses, even if the Author has been advised of the possibility of such damages.
+
+10. Termination
+
+This Agreement is effective until terminated.
+
+Your rights under this Agreement terminate automatically if you violate any of its terms. Upon termination, you must stop using the Software and delete all copies in your possession or control.
+
+11. Permission Requests
+
+To request permission for commercial use, redistribution, modification, integration, or other uses not allowed by this Agreement, contact the Author in writing.
+
+Permission is valid only if granted in writing by the Author.
+
+12. Entire Agreement
+
+This Agreement represents the entire agreement between you and the Author concerning the Software and replaces any prior discussions, statements, or understandings about the Software.
+
+13. Changes to This Agreement
+
+The Author may update this Agreement for future versions of the Software. Continued use of future versions means you accept the updated terms.
+
+END OF AGREEMENT
