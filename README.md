@@ -63,11 +63,11 @@ Please read the manual before using the software.
 
 ## Disclaimer
 
-This software is provided "as is", without warranty of any kind.
-
-Results should be independently verified. The author is not responsible for measurement errors, equipment damage, data loss, or any other damages resulting from use of the software.
-
-The software should not be used as the sole basis for safety-critical, medical, industrial-control, certification, or high-risk decisions.
+Provided as-is, without warranty.
+For impedance fitting, simulation, research, education, and evaluation only.
+Results must be independently verified.
+Not certified for safety-critical, medical, mains-voltage, high-voltage, or industrial-control applications.
+The user is responsible for safe circuit design, safe test conditions, and safe use of equipment.
 
 ## Permission Requests
 
